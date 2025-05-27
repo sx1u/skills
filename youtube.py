@@ -52,7 +52,7 @@ def get_available_qualities(link):
     by checking actual stream formats from yt-dlp.
     """
     try:
-        ydl_opts = {'quiet': True, 'skip_download': True}
+        ydl_opts = {'quiet': True, 'skip_download': True, 'cookiefile': 'cookies.txt'}
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             info = ydl.extract_info(link, download=False)
             formats = info.get("formats", [])
@@ -69,7 +69,6 @@ def get_available_qualities(link):
         print(f"Error while getting qualities: {e}")
         return []
 
-
 def Download(link, user_id, mode='video', resolution='720p@30fps'):
     """
     Downloads video/audio from YouTube using yt-dlp and returns (file_path, size_in_MB)
@@ -84,6 +83,7 @@ def Download(link, user_id, mode='video', resolution='720p@30fps'):
                 'outtmpl': f'{output_path}/%(title)s.%(ext)s',
                 'quiet': True,
                 'no_warnings': True,
+                'cookiefile': 'cookies.txt',
                 'postprocessors': [{
                     'key': 'FFmpegExtractAudio',
                     'preferredcodec': 'mp3',
@@ -99,6 +99,7 @@ def Download(link, user_id, mode='video', resolution='720p@30fps'):
                 'outtmpl': f'{output_path}/%(title)s.%(ext)s',
                 'quiet': True,
                 'no_warnings': True,
+                'cookiefile': 'cookies.txt',
                 'merge_output_format': 'mp4',
                 'noplaylist': True,
             }
