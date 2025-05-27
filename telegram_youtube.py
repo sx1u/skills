@@ -11,7 +11,7 @@ from telegram.ext import (
 from youtube import Download, get_available_qualities
 import yt_dlp
 
-TOKEN = "8008175129:AAEVbuLnaIpwOWu9CBq8NtXNrf6c19tCvwU"
+TOKEN = "8008175129:AAGPpshhxgZE5Eje5LI2_tmhqCRi3826NH0"
 
 WAITING_FOR_MODE, WAITING_FOR_RESOLUTION = range(2)
 user_state = {}
